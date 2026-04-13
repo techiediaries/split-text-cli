@@ -36,7 +36,7 @@ A powerful, user-friendly, and zero-dependency Node.js CLI tool for splitting la
 
 3. *(Optional but recommended on macOS/Linux)* Make the script executable:
 
-````bash
+```bash
 chmod +x split-cli.js
 ```
 
